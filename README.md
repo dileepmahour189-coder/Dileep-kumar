@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="banner.png" width="100%">
+</p>
 <h1 align="center">Hi 👋, I'm Dileep Kumar</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
